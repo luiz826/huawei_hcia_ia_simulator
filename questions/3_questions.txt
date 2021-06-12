@@ -1,0 +1,498 @@
+QUESTION NO: 121
+What does factors that promote the development of artificial intelligence not include?
+A. Big data
+B. Computing ability
+C. Algorithm theory
+D. Block chain
+Answer: D
+
+QUESTION NO: 122
+The following are the description of the distribution function. distribution law. and density
+function of random variables.
+which is incorrect?
+A. Distribution law can only describe the value rule of discrete random variables
+B. The density function can only describe the value rule of continuous random variables
+C. Discrete random variables have no d1slribulion function
+D. Distribution function describes the value rule of random variables
+Answer: C
+
+QUESTION NO: 123
+In machine learning, what input the model needs to train itself and predict the unknown?
+A. Manual procedure
+B. Neural Networks
+C. Training algorithm
+D. historical data
+Answer: D
+
+QUESTION NO: 124
+The pooling layer in the convolutional neural network can reduce the size of the lower layer
+input. Common pooling is:
+A. Minimum strata
+B. Product pooling layer
+C. Maximum pooling layer
+D. Average pooling layer
+Answer: C,D
+
+QUESTION NO: 125
+As the following, what are the Python language design philosophy? (Multiple Choice)
+A. Beautiful
+B. Expensive
+C. Explicit
+D. Simple
+Answer: A,C,D
+
+QUESTION NO: 126
+What does not belong to supervised learning?
+A. Logistic regression
+B. Support vector machine
+C. Decision tree
+D. Princi1pal component analysis
+Answer: D
+
+QUESTION NO: 127
+During the two classification process, we can set any category as a positive example.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 128
+Which of the following does not belong to long-term memory LSTM (long Short*Term
+Memory) network architecture?
+A. Memory door
+B. Forget the door
+C. Input door
+D. Output door
+Answer: A
+
+QUESTION NO: 129
+In May 1997, the famous "Human-Machine Wars" final computer defeated Kasparov, the
+world chess king, with a total score of 3.5 to 2 5. is this computer called?
+A. Dark blue
+B. Dark green
+C. Ponder
+D. Blue sky
+Answer: A
+
+QUESTION NO: 130
+The continue statement in the Python language is used to jump out of this loop and then
+continue to execute the next round of statements.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 131
+Huawei Cloud El builds enterprise intelligence services based on three-tier services.
+Which of the following options does not belong to Layer 3 services?
+A. Basic platform services
+B. General domain services
+C. Industry sector services
+D. Integration services
+Answer: D
+
+QUESTION NO: 132
+Which of the following options is not central to linear algebra?
+A. Probability theory
+B. Linear transformation
+C. Matrix theory
+D. Vector space
+Answer: A
+
+QUESTION NO: 133
+In supervised learning," Those who are near Zhu are red and those who are near Mo are
+black"Is used to describe which of the following models?
+A. K-Means
+B. SVM
+C. KNN
+D. Neural Networks
+Answer: C
+
+QUESTION NO: 134
+There are a lot of data generated during the training of the neural network.
+What mechanism does TensorFlow use to avoid excessive input data?
+A. Client
+B. feed
+C. placeholder
+D. fetch
+Answer: C
+
+QUESTION NO: 135
+TensorFlow2.0 The methods that can be used for tensor merging are?
+A. join
+B. concat
+C. split
+D. unstack
+Answer: B
+
+QUESTION NO: 136
+Which of the following options belong to Tensorflow concept? (Multiple Choice)
+A. Tensor
+B. Variables
+C. Placeholder
+D. Operation
+E. Conversation
+Answer: A,B,C,D,E
+
+QUESTION NO: 137
+Python authors deliberately design very restrictive grammars that make bad programming
+habits (such as the next line of if statement not indented to the right) cannot be compiled
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 138
+Which of the following about the description of the number of rows and columns for the
+determinant is correct?
+A. The number of rows 1s greater than the number of columns
+B. The number of rows 1s equal lo the number of columns
+C. The number of rows is less than the number of columns
+D. The number of rows has no relationship with the number of columns.
+Answer: B
+
+QUESTION NO: 139
+From the labeled historical data, we can predict that the retail sales of the next quarter will be
+in 20-30 Wan still 30-40 Ten thousand", What is the problem?
+A. Regression problem
+B. Rule problem
+C. Classification problem
+D. Clustering problem
+Answer: C
+
+QUESTION NO: 140
+HUAWEI CLOUD ModelArts Is for AI Which of the following functions are in the developed
+one-stop development platform Mode1Arts Can have?
+A. Data governance
+B. AI market
+C. Visual workflow
+D. Automatic learning
+Answer: A,B,C,D
+
+QUESTION NO: 141
+Atlas 200 DK Yiteng 310 The main application of the chip is?
+A. Model reasoning
+B. Build model
+C. Training model
+Answer: A
+
+QUESTION NO: 142
+What are the advantages of Python? (Multiple choice)
+A. Simple
+B. Free
+C. High-level language
+D. Rich library
+Answer: A,B,C,D
+
+QUESTION NO: 143
+According to the development process of the robot, it is usually divided into three
+generations, respectively are: (Multiple Choice)
+A. Teaching Reproduction Robot
+B. Robot with sensation
+C. Robots that will think
+D. Intelligent robot
+Answer: A,B,D
+
+QUESTION NO: 144
+As shown in the figure below, what is the value of the determinant A?
+
+A. 24
+B. 18
+C. -24
+D. 0
+Answer: D
+
+QUESTION NO: 145
+Which of the following descriptions about Python program are correct? (Multiple choice)
+A. The program consists of modules
+B. Module contains statements
+C. statement contains an expression
+D. Expressions create and process objects
+Answer: A,B,C,D
+
+QUESTION NO: 146
+Which of the following is not MindSpore common Operation?
+A. signal
+B. math
+C. nn
+D. array
+Answer: A
+
+QUESTION NO: 147
+Linear algebra is a branch of algebra that deals with linear problems.
+The linear relationship is that the relationship between exponential objects is expressed in ( )
+times form?
+A. 1
+B. 2
+C. 3
+D. 4
+Answer: A
+
+QUESTION NO: 148
+TensorFlow is Google's first generation of proprietary machine learning systems
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 149
+What are the core concepts in TensorFlow? (Multiple Choice)
+A. Gridding
+B. Calculation Chart
+C. Dot Product
+D. Tensor
+Answer: B,D
+
+QUESTION NO: 150
+According to the American Society of Automotive Engineers (SAE) The automatic driving is
+divided into Which level?
+A. L1~L4
+B. L1~L5
+C. L0~L4
+D. L0~L5
+Answer: D
+
+QUESTION NO: 151
+The main computing resources included in the Da Vinci architecture computing unit are?
+A. Vector calculation unit
+B. Scalar Computing Unit
+C. Tensor computing unit
+D. Matrix calculation unit
+Answer: A,B,D
+
+QUESTION NO: 152
+Which of the following is not a way for the TensorFlow program to read data?
+A. Preload data
+B. Feeding data
+C. Read from the file
+D. Write a file format reader
+Answer: D
+
+QUESTION NO: 153
+Which of the following statements about universal form recognition services are correct?
+A. rows Represents the line information occupied by the text block, the number is from 0
+Start, list form
+B. colums Represents the column information occupied by the text block, the number is from
+0 Start, list form
+C. The incoming image data needs to go through base64 coding
+D. words Representative text block recognition result
+Answer: A,B,C,D
+
+QUESTION NO: 154
+Which of the following libraries are installed Atlas300 (3000)Install the accelerator card in the
+server DDK (Device Development Kit) What needs to be installed before?
+A. decorator
+B. setuptools
+C. numpy
+D. tensorflow
+Answer: A,B,C
+
+QUESTION NO: 155
+Tensor Yes MindSpore The storage component of the data.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 156
+Training error will reduce the accuracy of the model and produce under-fitting. How to
+improve the model fit? (Multiple choice)
+A. Increase the amount of data
+B. Feature Engineering
+C. Reduce regularization parameters
+D. Add features
+Answer: A,B,D
+
+QUESTION NO: 157
+TensorF1ow Which of the following companies first developed?
+A. Oracle
+B. Facebook
+C. Nvidia
+D. Google
+Answer: D
+
+QUESTION NO: 158
+TensorFlow2.0 of keras.preprocessing The role is?
+A. keras Data processing tools
+B. keras Built-in optimizer
+C. keras Model deployment tool
+D. Keras Generative model tool
+Answer: A
+
+QUESTION NO: 159
+Deep learning is a branch of machine learning
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 160
+The following description of machine learning is correct?
+A. Deep learning is a branch of machine learning
+B. Deep learning and machine learning are mutually inclusive
+C. Deep learning and machine learning are both artificial intelligence but have no relationship
+to each other
+D. None of the above
+Answer: A
+
+QUESTION NO: 161
+It is fine to pass in only one image when calling the face comparison service.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 162
+L1 with L2 Regularization is a method commonly used in traditional machine learning to
+reduce generalization errors. The following is about the two. The right way is:
+A. L1 Regularization can do feature selection
+B. L1 with L2 Regularization can be used for feature selection
+C. L2 Regularization can do feature selection
+D. L1 with L2 Regularization cannot be used for feature selection
+Answer: A
+
+QUESTION NO: 163
+In the face search service, if we want to delete a certain face set, we can use this code:
+firs_cliet.get_v2().get_face_set_service().delete_face_set("**"), among them "**" is to fill in the
+actual face set name.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 164
+The word recognition in the speech recognition service refers to the synchronous recognition
+of short speech. Upload the entire audio at once, and the recognition result will be returned in
+the response.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 165
+Which of the following neural network structures will share weights? (Multiple choice)
+A. Convolutional neural network
+B. Recurrent neural network
+C. Fully connected neural network
+D. All of the above
+Answer: A,B
+
+QUESTION NO: 166
+HUAWEI CLOUD EI There are many types of agents according to different industries and
+application scenarios. Currently, Huawei Cloud EI The agent has?
+A. Industrial Agent
+B. Traffic Agent
+C. Park Agent
+D. Car intelligence
+Answer: A,B,C,D
+
+QUESTION NO: 167
+How many spaces does PEP 8 stipulate that Python's first fine indentation needs to indent?
+A. 1
+B. 2
+C. 4
+D. 8
+Answer: C
+
+QUESTION NO: 168
+In what year did Huawei officially provide services in the form of cloud services, and
+combined with more partners to provide richer artificial intelligence practices?
+A. 2002
+B. 2013
+C. 2015
+D. 2017
+Answer: D
+
+QUESTION NO: 169
+enter 32*32 Image with size 5*5 The step size of the convolution kernel is 1 Convolution
+calculation, output image Size is:
+A. 28*23
+B. 28*28
+C. 29*29
+D. 23*23
+Answer: B
+
+QUESTION NO: 170
+Which of the following options is not the- session mode used by Tensorflow?
+A. Explicitly call the session to generate function
+B. Explicitly call the session to close function
+C. Through the Python context manager
+D. Multiple POST queries
+Answer: D
+
+QUESTION NO: 171
+Which of the following is HUAWEI HiAI Foundation Function of the module?
+A. App integrated
+B. Let the service actively find users
+C. Quickly convert and migrate existing models
+D. According to user needs, push services at the right time and at the right time
+Answer: C
+
+QUESTION NO: 172
+Which of the following are the activation functions of deep learning algorithms?
+A. Sigmoid
+B. ReLU
+C. Tanh
+D. Sin
+Answer: A,B,C
+
+QUESTION NO: 173
+Which of the following statements about Python are correct? (Multiple choice)
+A. Invented m 1989 by the Dutch Guido van Rossum, the first public release was issued in
+1991.
+B. Python 1s purely free software and the source code follows the GPL (GNU General Public
+License) protocol
+C. Python syntax is simple and clean One of the features is to force blank characters to be
+used as statement 1ndentat1on [Right Answers)
+D. Python 1s often nicknamed glue language which can easily connect various modules
+made 1n other languages
+Answer: A,B,C,D
+
+QUESTION NO: 174
+Code model.fit(mnist.train.inmage,mnist.train.labels.epochs=5)in of epochs Parameter
+representative?
+A. The entire training set will be trained 5 Times
+B. The entire test set will be tested 5 Times
+C. The entire training set will be divided into 6 Share
+D. The entire training set will be divided into 5 Share
+Answer: A
+
+QUESTION NO: 175
+Which of the following are solutions for the Huawei Cloud El industry scenario? (Multiple
+Choice)
+A. Intelligent Logistics
+B. Intelligent Water
+C. Intelligent transportation
+D. Intelligent Finance
+E. Intelligent manufacturing
+Answer: A,B,C,D,E
+
+QUESTION NO: 176
+When the voice recognition service is successfully called, which field is the recognition result
+stored in?
+A. result
+B. content
+C. data
+D. text
+Answer: A
+
+QUESTION NO: 177
+SVM What are the commonly used kernel functions in?
+A. Gaussian kernel function
+B. Polynomial kernel function
+C. Sigmiod Kernel function
+D. Linear kernel
+Answer: A,B,C,D
+
+QUESTION NO: 178
+K Folding cross-validation refers to dividing the test data set into K Sub-data sets.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 179
+The Python dictionary is widely identified by "{}". and the internal data consists of the key and
+its corresponding value
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 180
+Which of the following conditions do the randomized trials need to meet? (Multiple Choice)
+A. It can be repeated under the same conditions.
+B. There may be more than 011e possible outcome for each trial. and all possible outcomes
+of the trial can be clarified m advance
+C. All results of the lest cannot be clarified in advance
+D. It Is not possible to determine which result will appear before conducting a test.
+Answer: A,B,D

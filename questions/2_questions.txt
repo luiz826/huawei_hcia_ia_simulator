@@ -1,0 +1,484 @@
+QUESTION NO: 61
+Which of the following services belong to Huawei EI Service family?
+A. Dialogue robot
+B. EI Basic services
+C. Natural language processing
+D. EI Big data service
+Answer: A,B,C,D
+
+QUESTION NO: 62
+Which of the following descriptions of the depth feedforward network is correct?
+A. Deep feedforward network 1s a kind of neural network.
+B. The deep feedforward network has only one hidden layer.
+C. The unit on the hidden layer of the deep feedforward network will have countless.
+D. Deep feedforward network 1s used to deal with linear problems.
+Answer: A
+
+QUESTION NO: 63
+What is the incorrect relationship between neural networks and deep learning?
+A. The concept of deep learning sterns from the study or artificial neural networks.
+B. A neural network algorithm with multiple hidden layers is a deep learning algorithm
+C. Single layer neural networks are also a type of deep learning
+D. Convolutional neural networks are a type of deep learning.
+
+Answer: C
+QUESTION NO: 64
+What is the performance of artificial intelligence in the stage of perceptual intelligence?
+A. Machines begin to understand, think and make decisions like humans
+B. Machines begin to calculate and transmit information just like humans
+C. The machine starts to understand and understand, make judgments, and take some
+simple actions
+Answer: C
+
+QUESTION NO: 65
+In which year was the first introduction of "artificial intelligence"?
+A. 1946
+B. 1960
+C. 1916
+D. 1956
+Answer: D
+
+QUESTION NO: 66
+Which of the following is true about unsupervised learning?
+A. Unsupervised algorithm only processes "features" and does not process *tags*
+B. Dimensionality reduction algorithm is not unsupervised learning
+C. K-means algorithm and SVM algorithm belong lo unsupervised learning
+D. None of the above
+Answer: A
+
+QUESTION NO: 67
+The following belongs to TensorFlow2.0 The characteristic is?
+A. Introduce Keras interface
+B. Support static image mechanism
+C. Support more platforms and more languages
+D. Continue to be compatible Tensorflowl.x Related modules
+Answer: A,C,D
+
+QUESTION NO: 68
+The training error will continue to decrease as the model complexity increases.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 69
+HiAI What are the advantages of mobile computing platforms?
+A. Quick source code
+B. Diverse tool chain
+C. Complete documentation
+D. plentiful API
+Answer: A,B,C,D
+QUESTION NO: 70
+Which of the following statement about the matrix is incorrect?
+A. The arbitrary matrix is multiplied by the unit matrix and will not change.
+B. The transpose of the symmetric matrix A 1s also A itself.
+C. The transpose of the orthogonal matrix A is equal to the inverse of A .
+D. There is no inverse matrix for the diagonal matrix.
+Answer: D
+
+QUESTION NO: 71
+In the environment preparation for invoking HUAWEI CLOUD services, which of the following
+does not require confirmation of installation?
+A. requests
+B. setuptools
+C. websocket-client
+D. Jieba
+Answer: D
+
+QUESTION NO: 72
+In the classic convolutional neural network model,Softmax What hidden layer does the
+function follow?
+A. Convolutional layer
+B. Pooling layer
+C. Fully connected layer
+D. All of the above
+Answer: C
+
+QUESTION NO: 73
+ModelArts Service and (). The combination of services can easily deploy the model to "end"?
+A. OBS
+B. OCR
+C. ECS
+D. HiLens
+Answer: D
+
+QUESTION NO: 74
+With a lot of sales data but no labels, companies want to identify VIP Customer, the following
+model Suitable?
+A. Logistic regression
+B. SVM
+C. K-Means
+D. Hierarchical clustering
+Answer: C,D
+
+QUESTION NO: 75
+The naive Bayes algorithm does not require independent and identical distribution among
+sample features.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 76
+Which of the following statements about supervised learning is correct?
+A. Decision tree is a supervised learning
+B. Supervised learning cannot use cross-validation for training
+C. Supervised learning is a rule-based algorithm
+D. Supervised learning can be trained without labels
+Answer: A
+
+QUESTION NO: 77
+The commonly used functions for mathematical operations in Python are basically in lhe
+math module and the cmath module.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 78
+The constituent elements of the Python identifier include: numbers, letters, and underscores.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 79
+Jobs that are repetitive and require weak social skills are the easiest to be AI Replaced work.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 80
+What are the commonly used loss functions? (Multiple choice)
+A. Mean variance
+B. Sigmoid cross entropy
+C. Soft max cross enl10py
+D. Sparse cross entropy
+E. Weighted S1gmo1d Cross Entropy
+Answer: A,B,C,D,E
+
+QUESTION NO: 81
+If the deep learning neural network has the problem of gradient disappearance or gradient
+explosion, our common solution is.
+A. Gradient shear
+B. Random undersampling
+C. use Relu Activation function
+D. Regularization
+Answer: A,C,D
+
+QUESTION NO: 82
+In deep learning tasks, when encountering data imbalance problems, which of the following
+methods can we use to solve the problem?
+A. batch deletion
+B. Random oversampling
+C. Synthetic sampling
+D. Random undersampling
+Answer: B,C,D
+
+QUESTION NO: 83
+In deep learning, if the neural network has a large number of layers, the problem of gradient
+disappearance is more likely to occur. Strictly speaking, in which of the following links does
+the sample disappearance problem occur?
+A. Backpropagation update parameters
+B. Forward the dream and update
+C. Backpropagation calculation result
+D. Forward calculation results
+Answer: A
+
+QUESTION NO: 84
+The number or matrix is stored in the tensor
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 85
+Bagging In integrated learning, the relationship between each base learner is?
+A. Additive relationship
+B. relationship
+C. The latter model must be built on top of the previous model
+D. Independent
+Answer: B
+
+QUESTION NO: 86
+Generating a confrontation network is like a game system. The generator generates fake
+samples, and the discriminator judges whether it is true or false. Our ideal result is?
+A. The generator produces roughly the same samples
+B. The discriminator efficiently distinguishes the true and false samples generated by the
+generator
+C. The discriminator cannot distinguish the true and false samples generated by the
+generator
+D. The generator produces different samples
+Answer: C
+
+QUESTION NO: 87
+What quotation marks can the Python language use? (Multiple Choice)
+A. Single quotes
+B. Double quotes
+C. Three quotes
+D. Four quotes
+Answer: A,B,C
+
+QUESTION NO: 88
+Faced with the challenge of achieving efficient distributed training for ultra-large-scale
+models, MindSpore is handled as?
+A. Automatic parallel
+B. Serial
+C. Manual parallel
+Answer: A
+
+QUESTION NO: 89
+Reducing the gap between the training error and the test error will result in over-fitting How to
+prevent over-fitting? (Multiple Choice)
+A. Cross validation
+B. Integration method
+C. Increase regularization
+D. Feature Engineering
+Answer: A,B,C,D
+
+QUESTION NO: 90
+Which of the following are the characteristics of the Python language? {Multiple choice)
+A. Explanatory
+B. Process oriented
+C. Object-oriented
+D. Dynamic data type
+Answer: A,C,D
+
+QUESTION NO: 91
+PyTorch Which of the following functions does not have?
+A. Inline keras
+B. Support dynamic graph
+C. Automatic derivative
+D. GPU accelerate
+Answer: A
+
+QUESTION NO: 92
+The optimizer is an important part of training neural networks. The purpose of using the
+optimizer does not include which of the following:
+A. Speed up algorithm convergence
+B. Reduce the difficulty of manual parameter setting
+C. Avoid overfitting
+D. Avoid local extremes
+Answer: C
+
+QUESTION NO: 93
+What are the service categories included in Huawei Cloud El Enterprise Intelligence?
+(Multiple Choice)
+A. El visual cognition
+B. El online games
+C. El speech semantics
+D. El industry scene
+Answer: A,C,D
+
+QUESTION NO: 94
+Computer vision is the study of how to make computers "see".
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 95
+MSIR It is a simple, efficient and flexible graph-based function IR, A functional semantic type
+that can be represented Have?
+A. Free variable
+B. Higher order function
+C. Interrupt
+D. Recursion
+Answer: A,B,D
+
+QUESTION NO: 96
+What is wrong description of the normal distribution?
+A. In natural phenomena and social phenomena, many random variables obey or
+approximate a normal distribution.
+B. The normal distribution lakes the maximum value at the mean
+C. The larger the standard deviation the steeper the normal d1stribuhon curve
+D. The larger the standard deviation, the slower the normal distribution curve.
+Answer: C
+
+QUESTION NO: 97
+About Python correct tuple, which is correct description? (Multiple choice)
+A. The difference between a list and a tuple is that the elements of the tuple cannot be
+B. The list uses square brackets and the tuple uses parentheses
+C. Tuple creation is very simple just add elements in parentheses and separate them wrth
+commas
+D. When a tuple contains only one element you need to add a comma after the element
+Answer: A,B,C,D
+
+QUESTION NO: 98
+TensorFlow The data type used is?
+A. Scalar
+B. Vector
+C. Tensor
+D. Matrix
+Answer: C
+
+QUESTION NO: 99
+There are many types of neural networks in deep learning. The following neural network
+information is one-way propagation:
+A. LSTM
+B. Convolutional Neural Network
+C. Recurrent neural network
+D. GRU
+Answer: B
+
+QUESTION NO: 100
+TensorFlow2.0 of keras.metrics The methods that are not included in the built-in indicators
+are?
+A. Accuracy
+B. Recall
+C. Sum
+D. Mean
+Answer: C
+
+QUESTION NO: 101
+TensorFlow in keras The built-in optimizer of the module has?
+A. Adam
+B. SGD
+C. Adaboost
+D. Adadelta
+Answer: A,B,C,D
+
+QUESTION NO: 102
+Huawei AI The full scenarios include public cloud, private cloud, various edge computing, IoT
+industry terminals, and consumer terminals and other end, edge, and cloud deployment
+environments.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 103
+Voice recognition refers to the recognition of audio data as text data.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 104
+The correlation coefficient. also known as the linear correlation coefficient, is used to
+measure the linear relationship between two variables, which is a real number greater than
+zero
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 105
+In polynomial regression, there is a square term in the formula of the model, so it is not linear
+.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 106
+The test error will keep getting smaller as the complexity of the model increases.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 107
+GAN is a deep learning model and one of the most promising methods for unsupervised
+learning in complex distribution in recent years.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 108
+The number of rows and columns of the three matrices A , B and C is 3 rows and 2 columns,
+2 rows. 3 columns. 3 rows and 3 columns. which of the following operations is meaningful?
+A. AC
+B. BC
+C. A+B
+D. AB-BC
+Answer: B
+
+QUESTION NO: 109
+Which of the following about the gradient descent is incorrect?
+A. Random gradient descent is a commonly used one in gradient descent.
+B. Gradient descent includes random gradient descent and batch gradient descent.
+C. The gradient descent algorithm 1s fast and reliable [Right Answers}
+D. Random gradient descent is one of the commonly used optimization algorithms in deep
+learning algorithms.
+Answer: C
+
+QUESTION NO: 110
+What are the commonly used activation functions? (Multiple Choice)
+A. sigmoid
+B. tanh
+C. relu
+D. danish
+Answer: A,B,C
+
+QUESTION NO: 111
+Python is a fully object-oriented language. Which of the following options belong to the
+Python object? (Multiple Choice)
+A. Function
+B. Module
+C. Number
+D. Character string
+Answer: A,B,C,D
+
+QUESTION NO: 112
+The label predicted by the regression algorithm is?
+A. Self-deformation
+B. Discrete
+C. Strain type
+D. Continuous
+Answer: D
+
+QUESTION NO: 113
+What operating systems does Python support? (Multiple Choice)
+A. DOS
+B. Linux
+C. Mac OSX
+D. Windows
+Answer: A,B,C,D
+
+QUESTION NO: 114
+Which of the following description about the relationship between the Poisson distribution and
+the binomial distribution is correct?
+A. The mathematical model of the Poisson distribution and the binomial distribution are both
+Lagrangian models.
+B. Poisson d1stnbutJon 1s an approx1mallon of the bmom1al d1stnbubon when n 1s very
+large and p 1s small (
+C. Poisson distribution has no relationship with binomial distribution
+D. Poisson distribution can replace binomial distribution
+Answer: B
+
+QUESTION NO: 115
+Huawei AI The whole scenario includes public cloud, private cloud, various edge computing,
+IoT industry terminals and consumer. The deployment environment of terminal, edge, and
+cloud for fee-based terminals.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 116
+Which of the following conditions is not a condition that n-fold bernoulli trials needs to meet?
+A. Each test was repeated under the same conditions.
+B. There are only two possible outcomes for each trial, i.e. event A occurs and event A does
+not occur.
+C. Each test itself is obeying normal distribution
+D. The results of each trial are independent of each other.
+Answer: C
+
+QUESTION NO: 117
+The face detection service will report an error when there is no face in the test image.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 118
+HUAWEI HiAI Engine Can easily combine multiple AI Ability and App integrated.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 119
+Which of the following does not belong to automatic hyperparameter optimization algorithm?
+A. Grid search
+B. Random gradient descent
+C. Random search
+D. Model-based hyper parameter optimization
+Answer: B
+
+QUESTION NO: 120
+After the data has completed the feature engineering operation, in the process of
+constructing the model, which of the following options is not a step in the decision tree
+construction process?
+A. Pruning
+B. Feature selection
+C. Data cleaning
+D. Decision tree generation
+Answer: C

@@ -1,0 +1,507 @@
+QUESTION NO: 301
+The Python language can use the "#" at the beginning of a single line of code for code
+comments .
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 302
+When the universal text recognition service is successfully called, the returned text
+recognition result is stored in which of the following fields?
+A. text
+B. result
+C. content
+D. words
+Answer: B
+
+QUESTION NO: 303
+The following options belong to keras under estimator The encapsulation methods are?
+A. Assessment
+B. training
+C. prediction
+D. Output model
+Answer: A,B,C
+
+QUESTION NO: 304
+What are the regularizations in deep learning? (Multiple Choice)
+A. L1 norm. L2 norm
+B. Data set enhancement
+C. Integration method
+D. Dropout
+Answer: A,B,C,D
+
+QUESTION NO: 305
+Which of the following description about Python regular expression is not correct?
+A. Python has added there regular expression module since version 1.5.
+B. re regular expression module gives the Python language all the regular expression
+functionality.
+C. re regular expressions are powerful tools for working with strings.
+D. re regular expressions can only process string data not numeric data
+Answer: D
+
+QUESTION NO: 306
+The for loop statement in the Python language can iterate through the items in any sequence
+.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 307
+The following applications that are not part of the adversarial generation network are?
+A. Text generation
+B. Image generation
+C. Image Identification
+D. Data enhancement
+Answer: C
+
+QUESTION NO: 308
+Regarding the face search service, which of the following statements are correct?
+A. When there is no face set, you need to create a face set first, then add face data, and then
+search
+B. The size of a face set cannot exceed 10000 Pictures
+C. There is a dedicated interface to delete the specified face set
+D. There is a dedicated interface to delete the face data in a certain face set
+Answer: A,C,D
+
+QUESTION NO: 309
+GPU Good at computationally intensive and easy to parallel programs.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 310
+Which of the following options are <Artificial Intelligence Comprehensive Experiment> May
+be used in calling Huawei cloud services?
+A. ak
+B. region
+C. project_id
+D. sk
+Answer: A,B,C,D
+
+QUESTION NO: 311
+The matrix produced by the exchange of matrix A rows and columns is called the transpose
+of A . What are the correct properties of matrix transposition? (Multiple Choice)
+A. (A T ) T = A
+B. (A+ 8) T = AT +BT
+C. (!EA) T = !EAT
+D. (AB} T = A T +BT
+Answer: A,B,C
+
+QUESTION NO: 312
+The activation function plays an important role in the neural network model learning and
+understanding of very complex problems. The following statement about the activation
+function is correct.
+A. Activation functions are linear functions
+B. Activation functions are non-linear functions
+C. The activation function is partly a nonlinear function, partly a linear function
+D. Most of the activation functions are nonlinear functions, and a few are linear functions
+Answer: B
+
+QUESTION NO: 313
+Which of the following is not included in the recurrent neural network usage scenario?
+A. Machine translation
+B. Speech recognition
+C. Image style migration
+D. Text generation
+Answer: C
+
+QUESTION NO: 314
+Which of the following options is not a reason for traditional machine learning algorithms to
+promote the development of deep learning?
+A. Dimensional disaster
+B. local invariance and smooth regularization
+C. Manifold learning
+D. Feature Engineering
+Answer: D
+
+QUESTION NO: 315
+Which of the following is not a face recognition technology?
+A. Face search
+B. Face comparison
+C. Face Detection
+D. Remake recognition
+Answer: D
+
+QUESTION NO: 316
+Numerical calculation refers to the method and process of effectively using the digital
+computer to solve the approximate problem of mathematical problems, and the discipline
+consisting of related theories.
+Which of the following processes are involved in solving actual problems with a computer?
+(Multiple Choice)
+A. Know the actual problem
+B. Mathematical model
+C. Numerical calculation method
+D. Programm1ng
+E. Computer calculation results
+Answer: A,B,C,D,E
+
+QUESTION NO: 317
+The following evaluation indicators belonging to the regression algorithm are?
+A. Recall rate
+B. Confusion matrix
+C. Mean square error
+D. Accuracy
+Answer: C
+
+QUESTION NO: 318
+Which of the following is an image label service URI?
+A. /v1.0/image/recognition
+B. /v1.0/image/celebrity-recognition
+C. /v1.0/image/recapture-detect
+D. /v1.0/image/tagging
+Answer: D
+
+QUESTION NO: 319
+What are the Python language data types? (Multiple Choice)
+A. numbers
+B. string
+C. list
+D. tuple
+E. dictionary
+Answer: A,B,C,D,E
+
+QUESTION NO: 320
+Which of the following data types does Tensorflow not support?
+A. int8
+B. ftoat32
+C. double64
+D. bool
+Answer: C
+
+QUESTION NO: 321
+Which of the following is not a module in the Tensorflow library?
+A. tf.nn
+B. tf. layers
+C. tf boost
+D. tf.contrib
+Answer: C
+
+QUESTION NO: 322
+Which is wrong with the Python module time introduction method?
+A. import time
+B. from time import *
+C. import time as t
+D. from time
+Answer: D
+
+QUESTION NO: 323
+Pytorch Which company launched it first?
+A. Baidu
+B. Google
+C. Facebook
+D. Huawei
+Answer: C
+
+QUESTION NO: 324
+Atlas accelerate AI What processor is used for inference?
+A. Different 910 processor
+B. Different 310 processor
+C. GPU
+D. FPGA
+Answer: B
+
+QUESTION NO: 325
+Which of the following options is not the Tensorflow build process?
+A. Building a calculation chart
+B. Input tensor
+C. Generate a session
+D. Update weights I Right Answers)
+Answer: D
+
+QUESTION NO: 326
+Linear regression in 3 The fitted surface in the dimension above dimension is?
+A. Curved surface
+B. flat
+C. Hyperplane
+D. Hypersurface
+Answer: C
+
+QUESTION NO: 327
+Which of the following products is related to artificial intelligence? (Multiple Choice)
+A. Alpha Go
+B. Self-driving
+C. Voice input
+D. Huawei Mate mobile phone
+Answer: A,B,C,D
+
+QUESTION NO: 328
+None of the following options TensorFlow2.0. The supported operators are:
+A. pow
+B. @
+C. ^
+D. //
+Answer: C
+
+QUESTION NO: 329
+Not supported in the following options TensorFLow2.0 The attributes for dimensional
+transformation are.
+A. squeeze
+B. reshape
+C. gather
+D. transpose
+Answer: C
+
+QUESTION NO: 330
+Which descriptions are correct about python's index? (Multiple Choice)
+A. Index from left to right defaults from 0
+B. Index from left to right defaults from 1
+C. Index from right lo left defaults from -1
+D. Index from right to left defaults from 0
+Answer: A,C
+
+QUESTION NO: 331
+The following code was used when compiling the
+model:model.compile(optimizer='Adam,loss='categorical.crossentropy',metrics=[tf.keras.metri
+cs.accuracy]), currently using evaluate When the method evaluates the model, which of the
+following indicators will be output?
+A. accuracy
+B. categorical_ 1oss
+C. loss
+D. categorical accuracy
+Answer: A,C
+
+QUESTION NO: 332
+In Huawei Cloud El Enterprise Intelligence, which basic platform services are included?
+(Multiple Choice)
+A. Machine learning
+B. Deep learning
+C. Graph engine
+D. Batch processing
+Answer: A,B,C,D
+
+QUESTION NO: 333
+Which of the following environments does not support to install the T11nsorFlow?
+A. Linux
+B. Mac OS
+C. Docker
+D. OpenStack
+Answer: D
+
+QUESTION NO: 334
+The Python language does not allow embedding another loop body in a loop body
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 335
+An e-commerce company has always had problems with official website stalls, poor
+utilization of network resources, and difficulty in operation and maintenance. Then which of
+the following can the company use EI service?
+A. Park Agent
+B. Traffic Agent
+C. Network agent
+D. Industrial Agent
+Answer: C
+
+QUESTION NO: 336
+Artificial intelligence is currently suitable for scenarios with I' known environment, clear
+objectives, and predictable action . Deep learning in the fields of image recognition, speech
+recognition, translation, etc , artificial intelligence basically has human recognition ability.
+even surpassing human beings Based on these capabilities. it has been applied to many
+scenes such as medical care and public safety However, there is still a lack of reasoning and
+cognition
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 337
+Regularization is an important and effective technique for reducing generalization errors in
+traditional machine learning. The following techniques are regular. The technology is:
+A. L1 Regularization
+B. L2 Regularization
+C. Dropout
+D. Momentum optimizer
+Answer: A,B,C
+
+QUESTION NO: 338
+TensorFlow2.0 The mechanism of graphs and conversations has been cancelled in.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 339
+What are the common types of dirty data?
+A. Malformed value
+B. Duplicate value
+C. Logically wrong value
+D. Missing value
+Answer: A,B,C,D
+
+QUESTION NO: 340
+Which is not a deep learning algorithm?
+A. Setr-encoder
+B. Convolutional neural networks
+C. Recurrent neural networks
+D. Support vector machine
+Answer: D
+
+QUESTION NO: 341
+TensorF1ow2.0 Can be used to check if it is tensor The methods are?
+A. dtype
+B. isinstance
+C. is_tensor
+D. device
+Answer: B,C
+
+QUESTION NO: 342
+A scalar k is multiplied by matrix A equal to k and each of the numbers in A is multiplied.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 343
+Which of the following statements about overflow and underflow in numerical calculations is
+correct? (Multiple choice)
+A. Underflow occurs when the number close to zero Is rounded to zero
+B. Overflow occurs when the number close to zero 1s rounded to zero
+C. Overflow occurs when a large number of levels are approximated as 1P or - 1P
+D. Underflow occurs when a large number of levels are approximated as 1P or - 1P
+Answer: A,C
+
+QUESTION NO: 344
+Feature is the dimension that describes the characteristics of the sample. Regarding its
+interpretability in traditional machine learning and deep learning, the following statement is
+correct:
+A. Features are interpretable in traditional machine learning, but weak in deep learning
+B. Features are weak in traditional machine learning, but strong in deep learning
+C. Features are weak in interpretability in traditional machine learning and deep learning
+D. Features are interpretable in traditional machine learning and deep learning
+Answer: A
+
+QUESTION NO: 345
+Which of the following features does Python support? (Multiple choice)
+A. Inheritance
+B. Heavy load
+C. Derived
+D. Multiple inheritance
+Answer: A,B,C,D
+
+QUESTION NO: 346
+What of the following does belong to convolutional neural network (CNN)? (Multiple Choice)
+A. VGGNet
+B. ResNet
+C. AlexNet
+D. GoogleNet
+Answer: A,B,C,D
+
+QUESTION NO: 347
+Gyclic neural networks are more suitable for dealing with image recognition problems.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 348
+Which of the following does the convolutional neural network structure not include?
+A. Convolutional layer
+B. Pooling layer
+C. Loop layer
+D. Fully connected layer
+Answer: C
+
+QUESTION NO: 349
+Regarding the convolutional neural network pooling layer, the following description is correct
+?
+A. Pooling operation is realized by scanning window
+B. The pooling layer can play a role in dimensionality reduction
+C. Commonly used pooling methods include maximum pooling and average pooling
+D. The pooled feature image becomes smaller
+Answer: A,B,C,D
+
+QUESTION NO: 350
+What is wrong description or backpropagation?
+A. The learning process or the backpropagation algorithm consists of a forward propagation
+process and a back-propagation process.
+B. The backpropagation algorithm is a learning algorithm suitable for multi-layer neural
+networks, which is based on the gradient descent method
+C. The backpropagation phase sends training inputs to the network to obtain an stimuli
+response
+D. until the response of the network to the input reaches the predetermined target range.
+Answer: C
+
+QUESTION NO: 351
+The following is the correct difference between machine learning algorithms and traditional
+rule-based methods?
+A. Traditional rule-based methods, in which the rules can be explicitly clarified manually
+B. Traditional rule-based methods use explicit programming to solve problems
+C. The mapping relationship of the model in machine learning is automatically learned
+D. The mapping relationship of the model in the machine learning institute must be implicit
+Answer: A,B,C
+
+QUESTION NO: 352
+Regarding backpropagation, the following statement is wrong?
+A. Backpropagation can only be used in feedforward neural networks
+B. Backpropagation can be combined with gradient descent algorithm to update network
+weights
+C. Backpropagation passes through the activation function
+D. Back propagation refers to the back propagation of errors through the network
+Answer: A
+
+QUESTION NO: 353
+The image data of the passport recognition service is not needed base64 Coded.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 354
+When dealing with actual problems, when should machine learning be used in the following
+situations?
+A. The data distribution itself changes over time, requiring continuous re-adaptation of the
+program, such as predicting the trend of merchandise sales
+B. The complexity of the rules is low, and the problem is small
+C. Task rules will change over time, such as defect detection on the production line
+D. The rules are very complicated or cannot be described, such as face recognition and
+voice recognition
+Answer: A,C,D
+
+QUESTION NO: 355
+The Python list can be identified by '[]", and the default index of the first element from left to
+right is 1.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 356
+Which command can be checked Atlas 300 (3000) Whether the accelerator card is in place?
+A. 1spci | grep'npu'
+B. 1spci | grep'd100'
+C. 1spci grep'atlas'
+D. atlas info
+Answer: B
+
+QUESTION NO: 357
+Which of the following steps in deep learning are automatically completed by the model?
+A. Model training
+B. Feature selection
+C. Analysis and positioning task
+D. Feature extraction
+Answer: B,D
+
+QUESTION NO: 358
+HUAWEI CLOUD EI Enable more use of corporate boundaries AI And big data services to
+accelerate business development and benefit society. HUAWEI CLOUD EI The service can
+serve the enterprise in the following aspects?
+A. Industry data
+B. Industry wisdom
+C. algorithm
+D. Computing power
+Answer: A,B,C,D
+
+QUESTION NO: 359
+The following about the general form identification service returned type The field statement
+is correct?
+A. type Representative text recognition area type
+B. type for text Time represents the text recognition area
+C. type Representative form type
+D. type for table Time represents the form recognition area
+Answer: B,D
+
+QUESTION NO: 360
+In a neural network, knowing the weight and deviations of each neuron is the most important
+step. If you know the exact weights and deviations of neurons in some way, you can
+approximate any function What is the best way to achieve this?
+A. Random assignment, pray that they are correct
+B. Search for a combmat1on of weight and deviation until the best value 1s obtained
+C. Assign an initial value to iteratively update weight by checking the difference between the
+best value and the initial
+D. The above is not correct
+Answer: C

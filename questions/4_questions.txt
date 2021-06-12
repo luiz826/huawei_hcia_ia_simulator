@@ -1,0 +1,487 @@
+QUESTION NO: 181
+Which of the following is not an application of image recognition services?
+A. Target Detection
+B. Smart photo album
+C. Scene analysis
+D. Speech synthesis
+Answer: D
+
+QUESTION NO: 182
+About Bayesian formula- P(WlX)=P(XlW)*P(W)/P(X) What is the correct description?
+A. P(WIX) is a prior probability
+B. P(XIW) 1s a conditional probability
+C. P(W) is the posterior probability
+D. P(X) is the posterior probability
+Answer: B
+
+QUESTION NO: 183
+What are the steps that are not part of the operation of a Python file object?
+A. open
+B. delete
+C. read
+D. write
+E. close
+Answer: B
+
+QUESTION NO: 184
+Vector group a1=(1, 1, 1), a2=(0,2.5), a3=(1.3,6), which of the following options is correct?
+A. Linear correlation
+B. Linear independence
+C. aHa2+a3=0
+D. 2a1+a2+a3=0
+Answer: A
+
+QUESTION NO: 185
+twenty two.Among machine learning algorithms, which of the following is not unsupervised
+learning?
+A. Clustering
+B. Association rules
+C. Xgboost
+D. GMM
+Answer: C
+
+QUESTION NO: 186
+Which description is wrong about the lambda function of the Python language?
+A. lambda is just an expression, and the function body is much simpler than def.
+B. The body of a lambda can be an expression or a block of code
+C. The lambda function can access the parameters in the global namespace.
+D. The lambda function accepts only one parameter value
+Answer: D
+
+QUESTION NO: 187
+TensorFlow It is an end-to-end open source platform for machine learning and deep learning.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 188
+Deep learning algorithms can be divided into supervised learning and unsupervised learning.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 189
+What is wrong description of the Python module?
+A. The Python module is a Python file that ends with .py and contains Python object
+definitions and Python statements.
+B. The Python module allows you to logically organize your Python code snippets.
+C. Python modules can define functions classes and variables but the module does not
+contain executable code
+D. Assigning relevant code to a module can make your code better and easier to understand.
+Answer: C
+
+QUESTION NO: 190
+Deep learning neural network training requires a lot of matrix calculations. Generally, we
+need to use hardware to enable the computer to have parallel computing capabilities. The
+following hardware devices can provide parallel computing capabilities.:
+A. Motherboard
+B. RAM
+C. GPU
+D. CPU
+Answer: C
+
+QUESTION NO: 191
+Artificial intelligence is a new technical science that studies and develops theories, methods
+and application systems for simulating, extending and extending human intelligence. It is one
+of the core research areas of machine learning.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 192
+Which of the following is not the difference between Python 2 and Python 3?
+A. print
+B. Unicode
+C. import
+D. xrange
+Answer: C
+
+QUESTION NO: 193
+Grid search is a method of parameter adjustment.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 194
+Huawei firmly believes that the value of Al is ultimately reflected in solving the actual
+business problems of the enterprise. Therefore, Huawei is firmly committed to the
+development of Al technology, focusing on domain solutions, focusing on basic technologies
+and enabling platforms, and working with industry practice leaders to develop industry
+solutions
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 195
+In a neural network based on connectionism, each node can express a specific meaning.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 196
+Which is not a Python operator?
+A. arithmetic operator
+B. Reasoning operator
+C. Logical operator
+D. Comparison operator
+Answer: B
+
+QUESTION NO: 197
+The three stages of artificial intelligence include computational intelligence, () , Cognitive
+intelligence.
+A. Weak artificial intelligence
+B. Perceptual intelligence
+C. Behavioral intelligence
+D. Strong artificial intelligence
+Answer: B
+
+QUESTION NO: 198
+The following options do not belong to the scope of Huawei's full-stack solution are?
+A. Application enable
+B. Edge computing
+C. Open source framework
+D. Chip enable
+Answer: B
+
+QUESTION NO: 199
+The trace operation returns the sum of the diagonal elements of the matrix. Therefore, the
+trace of matrix A and its transposed matrix are equal
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 200
+In TensorFlow, data is represented in the form of tensors and calculation charts.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 201
+Global gradient descent algorithm, stochastic gradient descent algorithm and batch gradient
+descent algorithm are all gradient descent algorithms. The following is wrong about its
+advantages and disadvantages.
+A. The global gradient algorithm can find the minimum value of the loss function
+B. Batch gradient algorithm can solve the local minimum problem
+C. Stochastic gradient algorithm can find the minimum value of the loss function
+D. The convergence process of the global gradient algorithm is time-consuming
+Answer: C
+
+QUESTION NO: 202
+HUAWEI HiAI Empower APP What value?
+A. Safety
+B. stable
+C. real time
+D. at any time
+Answer: A,B,C,D
+
+QUESTION NO: 203
+Artificial intelligence at this stage is still in the weak artificial intelligence stage.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 204
+Which of the following are the elements of artificial intelligence? (Multiple choice)
+A. Algorithm
+B. Computing power
+C. Data
+D. Scene
+Answer: A,B,C,D
+
+QUESTION NO: 205
+If a model has a large deviation on the test set and a small variance, it means that the
+model?
+A. Overfitting
+B. May be overfitting may be underfitting
+C. Just fit
+D. Underfitting
+Answer: D
+
+QUESTION NO: 206
+As shown below, which are the following matrix A characteristic value? (Multiple choice)
+
+A. 2
+B. -2
+C. 4
+D. 4
+Answer: A,D
+
+QUESTION NO: 207
+Information theory is a branch of applied mathematics. The main research is to quantify how
+much information a signal contains. Who is the first to propose information theory?
+A. Minsky
+B. Turing
+C. Simon
+D. Shannon
+Answer: D
+
+QUESTION NO: 208
+Deep learning is different from machine learning and there are no unsupervised algorithms
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 209
+The following about KNN Algorithm k The value description is correct?
+A. K The larger the value, the easier the model is to overfit
+B. K The larger the value, the smoother the segmentation surface of the classification
+C. K Value is a hyperparameter
+D. can k Value is set to 0
+Answer: B,C
+
+QUESTION NO: 210
+Which of the following is not part of the deep learning development framework?
+A. CNTK
+B. Keras
+C. SAFA
+D. MXNet
+Answer: C
+
+QUESTION NO: 211
+Which of the following are the cloud services provided by Huawei Cloud El Visual Cognition?
+(Multiple choice)
+A. Text recognition
+B. Face recognition
+C. Image recognition
+D. Content detection
+E. Image processing
+Answer: A,B,C,D,E
+
+QUESTION NO: 212
+Recurrent neural networks can capture dynamic information in serialized data.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 213
+Which of the following are AI Subfield?
+A. Machine learning
+B. Computer vision
+C. Speech Recognition
+D. Natural language processing
+Answer: A,B,C,D
+
+QUESTION NO: 214
+From the perspective of technical architecture AI The classification of chips includes?
+A. FPGA
+B. CPU
+C. GPU
+D. ASIC
+Answer: A,B,C,D
+
+QUESTION NO: 215
+Which of the following aspects belong to Huawei's full stack AI solution?
+A. Ascend
+B. CANN
+C. ModelArts
+D. MindSpore
+Answer: A,B,C,D
+
+QUESTION NO: 216
+Atlas 800 AI There are multiple models of servers, of which the one based on the Kunpeng
+processor platform is?
+A. Atlas 800 model: 9000
+B. Atlas 800 model: 3000
+C. Atlas 800 model: 3010
+Answer: B
+
+QUESTION NO: 217
+On Huawei Cloud EI Which of the following can be AI Technology is integrated into the
+application scenarios of all walks of life AI The advantages of technology to improve
+efficiency and improve experience.
+A. EI Agent
+B. OBS Object storage service
+C. Cloud database
+D. EI Big data service
+Answer: A
+
+QUESTION NO: 218
+In the gradient descent algorithm, which of the following algorithms is the most confusing
+algorithm for the trajectory on the loss function surface?
+A. SGD
+B. BGD
+C. MGD
+D. MBGD
+Answer: A
+
+QUESTION NO: 219
+Which of the following activation functions are prone to vanishing gradient problems?
+A. ReLU
+B. Softplus
+C. Tanh
+D. Sigmoid
+Answer: C,D
+
+QUESTION NO: 220
+Which is the correct description of the python creation function? (Multiple choice}
+A. The function created starts with the def keyword followed by the function name and
+parentheses.
+B. The parameters need to be placed in parentheses
+C. The function content starts with a colon and needs lo be indented (Right Answers}
+D. Return the result with return and the function ends.
+Answer: A,B,C,D
+
+QUESTION NO: 221
+Regarding backpropagation, the following statement is wrong?
+A. Backpropagation can only be used in feedforward neural networks
+B. Backpropagation passes through the activation function
+C. Back propagation refers to the back propagation of errors through the network
+D. Backpropagation can be combined with gradient descent algorithm to update network
+weights
+Answer: A
+
+QUESTION NO: 222
+For the image classification problem, which of the following neural networks is more suitable
+to solve this problem?
+A. sensor
+B. Recurrent neural network
+C. Convolutional Neural Network
+D. Fully connected neural network
+Answer: C
+
+QUESTION NO: 223
+tf.keras.datasets Can view keras The built-in data set.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 224
+Which of the following about the dictionary in Python is correct? (Multiple Choice)
+A. Each key and its corresponding value need to be separated by ":
+B. Separate the different key-value with
+C. The entire dictionary is included in the
+D. The keys of the d1cl1onary are unique and the data type 1s uniform
+Answer: A,B,C,D
+
+QUESTION NO: 225
+TensorFlow 2.0 stand by GPU The acceleration is mainly manifested in the parallel operation
+of the addition, subtraction, multiplication and division of the matrix accelerate.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 226
+Principal Component Analysis (PCA) is a statistical method. A set of variables that may be
+related to each other is transformed into a set of linearly related variables by orthogonal
+transformation The converted set of variables is called the principal component
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 227
+The number of hidden layers of the deep learning neural network has a certain impact on the
+performance of the network. The following statement about its impact is correct.:
+A. The number of hidden layers is
+appropriately reduced, and the resolution ability of the neural network remains unchanged
+B. Increase the number of hidden layers appropriately, the stronger the resolution ability of
+the neural network
+C. The number of hidden layers is appropriately reduced, the stronger the resolution ability of
+the neural network is
+D. The number of hidden layers increases appropriately, the weaker the resolution ability of
+the neural network
+Answer: B
+
+QUESTION NO: 228
+Generative confrontation networks are currently widely useD. The following scenarios can
+use this network?
+A. Data enhancement
+B. Semantic segmentation
+C. Information retrieval
+D. Image generation
+Answer: A,B,C,D
+
+QUESTION NO: 229
+The Python language can use multiple statements on the same line, separated by commas
+".".
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 230
+What are the application scenarios for the break statement in the Python language? (Multiple
+Choice)
+A. Any Python statement
+B. while loop statement
+C. for loop statement
+D. Nested loop statement
+Answer: B,C,D
+
+QUESTION NO: 231
+When we describe the house, we usually use the attributes such as residential area, house
+type, decoration type, etC. If we use plain With Bayes as a model, we assume that there is
+no relationship between attributes.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 232
+Add to the loss function of linear regression L1 Regular term, this time the regression is
+called Lasso return.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 233
+What people say about neural networks is wrong?
+A. As the number of hidden layers of the neural network increases, the classification ability of
+the model gradually weakens
+B. The limitation of a single-layer perceptron is that it cannot solve the XOR problem
+C. The feedforward neural network can be represented by a directed acyclic graph
+D. There is no connection between neurons in the same layer of the feedforward neural
+network
+Answer: A
+
+QUESTION NO: 234
+Use with Atlas300 (3000) What conditions need to be checked when the accelerator card
+server compiles and runs the program?
+A. carry out Atlas Driver Installation
+B. It has been installed CUDA Software package
+C. It has been installed Cmake Compilation tool
+D. Complete environment configuration
+Answer: A,C,D
+
+QUESTION NO: 235
+The commonly used loss functions in deep learning are?
+A. L1 Loss function
+B. Mean square error loss function
+C. Cross entropy error loss function
+D. Self-declining loss function
+Answer: B,C
+
+QUESTION NO: 236
+twenty two.Among machine learning algorithms, which of the following is not unsupervised
+learning?
+A. GMM
+B. Xgboost
+C. Clustering
+D. Association rules
+Answer: B
+
+QUESTION NO: 237
+Loss function and model function are the same thing.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 238
+What is not the optimization method in deep learning?
+A. Random gradient descent
+B. Back propagation algorithm
+C. Principal component analysis
+D. Momentum
+Answer: C
+
+QUESTION NO: 239
+HUAWEI HiAI Which tool does the platform support to integrate with?
+A. Jupyter Notebook
+B. MyEclipse
+C. Android Studio
+D. Spider
+Answer: C
+
+QUESTION NO: 240
+Huawei Ascend AI Chip is NPU (Neural network processor) One of the typical
+representatives.
+A. TRUE
+B. FALSE
+Answer: A

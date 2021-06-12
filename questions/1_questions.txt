@@ -1,0 +1,500 @@
+QUESTION NO: 1
+Tensorflow Operations and Computation Graph are not - run in the Session
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 2
+What is in the category of artificial intelligence? (Multiple choice)
+A. Action
+B. Perception
+C. Cognition
+D. None of the above
+Answer: A,B,C
+
+QUESTION NO: 3
+Traffic agent can achieve () Hour full time/Global traffic awareness?
+A. 7×24
+B. 5×24
+C. 5×12
+D. 7×12
+Answer: A
+
+QUESTION NO: 4
+The perceptron can be displayed in space as?
+A. line
+B. flat
+C. Hyperplane
+D. point
+Answer: C
+
+QUESTION NO: 5
+In random forest, what strategy is used to determine the outcome of the final ensemble
+model?
+A. Cumulative system
+B. Find the average
+C. Voting system
+D. Cumulative system
+Answer: B,C
+
+QUESTION NO: 6
+What are the scenarios or industries that are suitable for using Python? (Multiple Choice)
+A. Artlfic1al intelligence
+B. web development
+C. Game development
+D Hardware development
+Answer: A,B,C
+
+QUESTION NO: 7
+In a convolutional neural network, different layers have different functions. Which of the
+following layers can play the role of dimensionality reduction?
+A. Input layer
+B. Fully connected layer
+C. Convolutional layer
+D. Pooling layer
+Answer: B,C,D
+
+QUESTION NO: 8
+Vector is a number.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 9
+Among the following properties TensorFlow2.0 Does not support creation tensor. The method
+is?
+A. zeros
+B. fill
+C. create
+D. constant
+Answer: C
+
+QUESTION NO: 10
+What is the English abbreviation for AI?
+A. Automatic Intelligence
+B. Artifical Intelligence
+C. Automatic Information
+D. Artifical Information
+Answer: B
+
+QUESTION NO: 11
+Which of the following are included in the application scenarios ofTensorflow? (Multiple
+choice}
+A. Speech recognition
+B. Face recognition
+C. Image style changes
+D. Autopilot
+
+
+Answer: A,B,C,D
+QUESTION NO: 12
+In neural networks, which of the following methods are used to update the parameters when
+training the network to minimize the loss function?
+A. Forward propagation algorithm
+B. Pooling calculation
+C. Convolution calculation
+D. Backpropagation algorithm
+Answer: D
+
+QUESTION NO: 13
+On the premise of ensuring data privacy and security, federated learning utilizes different
+data sources to cooperatively train models to improve breakthroughs in data bottlenecks.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 14
+What are the implementation modes ofTensorflow? (Multiple Choice)
+A. Stand-alone mode
+B. D1stnbuted mode
+C. Reverse mode
+D. Forward mode
+Answer: A,B
+
+QUESTION NO: 15
+Cut off 2019 At the end of the year,TensorFlow The released versions are?
+A. 1
+B. 3
+C. 2
+D. 0.1
+Answer: A,C,D
+
+QUESTION NO: 16
+TensorFlow 2.0 The way to view tensor dimensions in is?
+A. dimens
+B. dtype
+C. ndim
+D. device
+Answer: C
+
+QUESTION NO: 17
+On-Device Execution, that is, the entire image is offloaded and executed, and the computing
+power of the Yiteng chip can be fully utilized, which can greatly reduce the interaction
+overhead, thereby increasing the accelerator occupancy rate. On-Device The following
+description is wrong?
+A. MindSpore Realize decentralized autonomy through adaptive graph optimization driven by
+gradient data A11 Reduce, Gradient aggregation is in step, and calculation and
+communication are fully streamlined
+B. Challenges of model execution under super chip computing power: Memory wall
+problems, high interaction overhead, and difficulty in data supply. Partly in Host Executed,
+partly in Device Execution, interaction overhead is even much greater than execution
+overhead, resulting in low accelerator occupancy
+C. MindSpore Through the chip-oriented depth map optimization technology, the
+synchronization wait is less, and the "data computing communication" is maximized. The
+parallelism of "trust", compared with training performance Host Side view scheduling method
+is flat
+D. The challenge of distributed gradient aggregation under super chip computing
+power:ReslNet50 Single iteration 20ms Time will be generated The synchronization overhead
+of heart control and the communication overhead of frequent synchronization. Traditional
+methods require 3 Synchronization completed A11 Reduce, Data-driven method autonomy
+A11 Reduce, No control overhead
+Answer: C
+
+QUESTION NO: 18
+Huawei's chip support HUAWEI HiAI Which module of?
+A. HiAI Engine
+B. HiAI Foundation
+C. HiAI Framework
+D. HiAI Service
+Answer: B
+
+QUESTION NO: 19
+PyTorch All existing versions support Python2 with Python3?
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 20
+It is known that the total parameter of a certain layer of the fully connected neural network is
+330,The number of neurons in the previous layer and this layer May be?
+A. 32 with 10
+B. 10 with 33
+C. 33 with 10
+D. 9 with 33
+Answer: B,C
+
+QUESTION NO: 21
+What model is not a cyclic neural network?
+A. RNN
+B. LSTM
+C. GBOT
+D. GRU
+Answer: C
+
+QUESTION NO: 22
+The current technology application directions of artificial intelligence mainly include?
+A. Natural language processing
+B. Control System
+C. Computer vision
+D. Speech Recognition
+Answer: A,C,D
+
+QUESTION NO: 23
+Which of the following are the characteristics of TensorFlow? (Multiple choice)
+A. Open source
+B. Convenience
+C. Mature
+D. Flexible
+Answer: A,B,C,D
+
+QUESTION NO: 24
+Which of the following description of the number of rows and columns of the matrix is
+correct?
+A. The number of rows 1s greater than the number of columns
+B. The number of rows 1s equal to the number of columns
+C. The number of rows is less than the number of columns
+D. The number of rows has no relationship with the number of columns.
+Answer: D
+
+QUESTION NO: 25
+Feedforward neural network is a simple neural network, each neuron is arranged
+hierarchically, it is currently one of the most widely used and fastest growing artificial neural
+networks. The following statement about feedforward neural networks is correct:
+A. Neurons with computing power are connected to the upper and lower layers
+B. Its input node has computing power
+C. Connecting neurons in the same layer
+D. Information only along-Pass through
+Answer: D
+
+QUESTION NO: 26
+View Atlas300 (3000) Which command should be used if the accelerator card driver is
+installed successfully?
+A. npu-sim info
+B. npu info
+C. atlas-driver info
+D. atlas info
+Answer: A
+
+QUESTION NO: 27
+Facing industry research and full scenarios AI The huge gap between applications,
+MindSpore Bridging the application gap to help inclusiveness AI Of technological innovation
+does not include which of the following?
+A. New ways of collaboration
+B. New programming language
+C. New programming paradigm
+D. New execution mode
+Answer: B
+
+QUESTION NO: 28
+X. Y are random variables. C is a constant. which of the following description about the
+nature of the mathematical expectation is incorrect?
+A. E(C) = CA. E(C) = C
+B. E(X+Y) = E(X)+E{Y)
+C. E(CX) = CE(X)
+D. E(XY) = E(X)E{Y)
+Answer: D
+
+QUESTION NO: 29
+Which of the following schools does the neural network study belong to?
+A. Symbolism
+B. Connectionism
+C. Behaviorism
+D. None of the above
+Answer: B
+
+QUESTION NO: 30
+Artificial intelligence is the research and development of theories, methods and application
+systems used to simulate, extend and expand human intelligence Of a new technological
+science.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 31
+Which method is not supported in TensorFlow to define variables?
+A. Random number
+B. Constant
+C. Calculated from the initial values of other variables
+D. null
+Answer: D
+
+QUESTION NO: 32
+Deflated AI The logical architecture of the processor does not include which of the following
+options?
+A. DVPP
+B. GPU
+C. AI Calculation engine
+D. Chip system control CPU
+Answer: B
+
+QUESTION NO: 33
+There are many commercial applications for machine learning services.
+What are the main business scenarios covered? (Multiple Choice)
+A. Flnancial product recommendation
+B. Predictive maintenance
+C. Telecom customer retention
+D. Retailer grouping
+Answer: A,B,C,D
+
+QUESTION NO: 34
+In the process of training the neural network, we use the gradient descent method to
+continuously update which value, which makes the loss Function minimization?
+A. Number of samples
+B. Eigenvalues
+C. Hyperparameter
+D. parameter
+Answer: D
+
+QUESTION NO: 35
+In the process of deep learning model training, what are the common optimizers?
+A. Adam
+B. Adagrad
+C. SGD
+D. Momentum
+Answer: A,B,C,D
+
+QUESTION NO: 36
+Python tuples are identified by "()'' and internal elements are separated by ":".
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 37
+Only matrix A and matrix B have the same number of rows and columns. A and B can be
+added.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 38
+Which of the following can improve the computational efficiency of the neural network model?
+(Multjple choice)
+A. TPU
+B. GPU
+C. FPGA
+D. Large-scale distributed cluster
+Answer: A,B,C,D
+
+QUESTION NO: 39
+" print" in Python 3 must be used with "()"
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 40
+What are the mainstream deep learning open source tools? (Multiple choice)
+A. TensorFlow
+B. Caffe
+C. Torch
+D. Theano
+E. Scikit..Jeam
+Answer: A,B,C,D
+
+QUESTION NO: 41
+TensorFlow It is one of the most popular deep learning frameworks.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 42
+Which of the following is the computing model of TensorFlow?
+A. Calculation chart
+B. Tensor
+C. Conversation
+D. Variable
+Answer: A
+
+QUESTION NO: 43
+In neural networks, weights are often shareD. Which of the following neural networks will
+share weights?
+A. sensor
+B. Convolutional Neural Network
+C. Fully connected neural network
+D. Recurrent neural network
+Answer: B,D
+
+QUESTION NO: 44
+Deep learning makes it easy to derive simple mathematical functions from a large amount of
+high-dimensional data to describe complex decision interfaces.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 45
+Traditional machine learning and deep learning are the core technologies of artificial
+intelligence. There is a slight difference in the engineering process. The following steps. What
+you don't need to do in deep learning is:
+A. Model evaluation
+B. Feature engineering
+C. Data cleaning
+D. Model building
+Answer: B
+
+QUESTION NO: 46
+The Python dictionary is identified by "{}", and the internal data consists of the key and its
+corresponding value.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 47
+Convolutional neural networks are more suitable for image recognition problems than cyclic
+neural networks.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 48
+Where is the main foothold of symbolism?
+A. The foothold is in neuron networks and deep learning.
+B. The foothold is reasoning, symbolic reasoning and machine reasoning.
+C. The foothold is perception and action.
+D. The foothold is behavior control, adaptive and evolutionary computing.
+Answer: B
+
+QUESTION NO: 49
+When training the network, we often encounter many problems. For the problem of gradient
+disappearance, we can alleviate the problem by choosing which of the following functions to
+use?
+A. Softsign function
+B. Relu function
+C. tanh function
+D. Sigmoid function
+Answer: B
+
+QUESTION NO: 50
+During application development, which of the following operations is not a typical network
+definition?
+A. Network definition
+B. Network execution
+C. Knowledge distillation
+D. Weight initialization
+Answer: C
+
+QUESTION NO: 51
+Which of the following description of the validation set is wrong?
+A. The verification set can coincide with the test set.
+B. The test set can coincide with the training set
+C. The subset used to pick hyperparameters is called a validation set
+D. Typically 80% of the training data 1s used for training and 20% 1s used for verification.
+Answer: A
+
+QUESTION NO: 52
+Which of the following functions can numerically stabilize overflow and underflow?
+A. Softminus function
+B. Softplus function
+C. Soft max function
+
+D. Softmin func!Jon
+Answer: C
+QUESTION NO: 53
+The loss function of logistic regression is the cross-entropy loss function.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 54
+What are the common clustering algorithms?
+A. Density clustering
+B. Hierarchical clustering
+C. Spectral clustering
+D. Kmeans
+Answer: A,B,C,D
+
+QUESTION NO: 55
+Python script execution mode includes interactive mode and script mode
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 56
+The loss function reflects the error between the target output and actual output of the neural
+network. The commonly used loss function in deep learning is:
+A. Exponential loss function
+B. Mean square loss function
+C. Log loss function
+D. Hinge Loss function
+Answer: B
+
+QUESTION NO: 57
+The model composed of machine learning algorithms cannot represent the true data
+distribution function on a theoretical level. Just approach it.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 58
+About the image content review service returned when the call is successful suggestion
+Field, the correct statement is?
+A. pass Representative does not contain sensitive information, passed
+B. review The representative needs a manual review
+C. suggestion The field represents whether the test passed
+D. block Representative contains sensitive information and does not pass
+Answer: A,B,C,D
+
+QUESTION NO: 59
+HUAWEI HiAI What are the supported models?
+A. P30
+B. Mate 20
+C. glory V20
+D. iPhone10
+Answer: A,B,C
+
+QUESTION NO: 60
+The meaning of artificial intelligence was first proposed by a scientist in 1950, and at the
+same time a test model of machine intelligence was proposed Who is this scientist?
+A. Minsky
+B. Zade
+C. Turing
+D. Von Neumann
+Answer: C

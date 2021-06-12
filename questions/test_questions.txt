@@ -1,0 +1,79 @@
+QUESTION NO: 361
+What are the commonly used gradient descent optimization functions? (Multiple Choice)
+A. Random gradient descent
+B. Adadelta
+C. Adagrad
+D. momentum
+E. RMSProp
+Answer: A,B,C,D,E
+
+QUESTION NO: 362
+Huawei Machine learning Service MLS MLS is a one-stop platform that supports the entire
+process of data analysis. Which of the following is not a feature of MLS?
+A. A rich library of machine learning algorithms.
+B. machine learning program is intuitive and easy to use.
+C. Distributed and scalable big data computing engine.
+D. Support for the R language but does not support the Python language
+Answer: D
+
+QUESTION NO: 363
+GBDT Compared with the random forest algorithm, which of the following statements is
+wrong?
+A. GBDT Algorithm is easier to underfit than random forest
+B. Random forest is calculated in parallel, while GBDT Can't
+C. GBDT Algorithm is easier to overfit than random forest
+D. GBDT And random forest are built on CART Based on the tree
+Answer: C
+
+QUESTION NO: 364
+What are the results returned by the if conditional statements in the Python language?
+(Multiple choice)
+A. True
+B. 0
+C. FALSE
+D. null
+Answer: B,C
+
+QUESTION NO: 365
+Label when the image remake detection service is called successfully sugestion What's the
+situation?
+A. certainty
+B. FALSE
+C. uncertainty
+D. TRUE
+Answer: B,C,D
+
+QUESTION NO: 366
+CPU Mainly through increasing instructions, increasing the number of cores, etc. to improve
+AI performance.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 367
+The time interval in the Python language is a Hoating-point fraction in seconds
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 368
+Self-encoder is an unsupervised learning algorithm
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 369
+Among the machine learning algorithms, the following is not an integrated learning strategy?
+A. Boosting
+B. Stacking
+C. Bagging
+D. Marking
+Answer: D
+
+QUESTION NO: 370
+AI Chips are divided into business applications and can be divided into?
+A. training
+B. GPU
+C. Model building
+D. reasoning
+Answer: A,D

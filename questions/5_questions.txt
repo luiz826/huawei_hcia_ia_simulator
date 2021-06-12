@@ -1,0 +1,481 @@
+QUESTION NO: 241
+Python regular expressions are a special sequence of characters that makes it easy to check
+if a string matches a pattern.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 242
+What is wrong about the image content review service?
+A. politics Test results for sensitive persons involved in politics
+B. terrorism Test results for political violence
+C. confidence Represents confidence, range 0-100
+D. labe1 Label representing each test result
+Answer: C
+
+QUESTION NO: 243
+in TensorFlow2.0 in tf.contrib The method can continue to be used.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 244
+The timestamps in the Python language- are represented by how long (in seconds) elapsed
+from midnight (epoch) on January 1, 1970
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 245
+Which of the following are the topics of speech processing research?
+A. Speech processing
+B. Voiceprint recognition
+C. Speech Recognition
+D. Wake up
+Answer: B,C,D
+
+QUESTION NO: 246
+The TensorFlow framework does not support Windows systems.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 247
+In the process of training the neural network, our goal is to keep the loss function reduced.
+Which of the following methods do we usually use to minimize the loss function?
+A. Gradient descent
+B. Dropout
+C. Cross-validation
+D. Regularization
+Answer: A
+
+QUESTION NO: 248
+Image label service returned tag There can be more than one.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 249
+Recurrent neural network is different from convolutional neural network, it is better at solving
+the following problems?
+A. Sequence related issues
+B. Image classification
+C. Image detection
+D. Recommended question
+Answer: A
+
+QUESTION NO: 250
+What are the numeric types of Python? (Multiple Choice)
+A. int (integer type)
+B. long (long integer type)
+C. float (floating point type)
+D. complex (complex number type)
+Answer: A,B,C,D
+
+QUESTION NO: 251
+What are the conditions for m row n column matrix A and p row q column matrix B to be
+multiplied?
+A. m=p. n=q
+B. n=p
+C. m=n
+D. p=q
+Answer: B
+
+QUESTION NO: 252
+The following statement about recurrent neural networks is wrong?
+A. Recurrent neural network can be unfolded according to the time axis
+B. LSTM Unable to solve the problem of vanishing gradient
+C. LSTM It is also a recurrent neural network
+D. Recurrent neural network can be abbreviated as RNN
+Answer: B
+
+QUESTION NO: 253
+TensorFlow only supports Python and R language
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 254
+Machine Learning Service is a data mining and analytics platform service that helps users
+quickly discover data patterns and build predictive models through machine learning
+techniques and deploy them as predictive analytics solutions
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 255
+Which of the following can optimization problem be classified according to the constraints?
+(Multiple choice)
+A. equality constraints
+B. Inequality constraints
+C. Unconstrained conditions
+D. Semi-constraint conditions
+Answer: A,B,C
+
+QUESTION NO: 256
+AI Chip is also called AI Accelerators are specially designed to handle a large number of
+computing tasks in artificial intelligence applications functional module.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 257
+The following does not belong TensorFlow2.0 Is characterized by?
+A. Multi-core CPU accelerate
+B. distributed
+C. multi-language
+D. Multi-platform
+Answer: A
+
+QUESTION NO: 258
+What is the subject of artificial intelligence?
+A. Mathematics and Physiology
+B. Psychology and Physiology
+C. Linguistics
+D. Comprehensive mterd1sc1pl1nary and marginal d1sc1phnes
+Answer: D
+
+QUESTION NO: 259
+Functions are well-organized, non-reusable code segments used to implement a single, or
+associated Function.
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 260
+Tensorflow is the second generation of artificial intelligence learning system developed by
+Google based on ( ).
+A. DistBelief
+B. PaleyFunction
+C. ConvexOne
+D. Infinity
+Answer: A
+
+QUESTION NO: 261
+Under the large-scale relationship analysis scenario, which of the following options does not
+belong to the three high demands of massive relationship processing?
+A. Efficient relationship discovery data for massive data
+B. Efficient sharing of massive data
+C. Efficient storage and access requirements for massive amounts of data
+D. High scalability and high availability requirements for relational analysis platforms
+Answer: B
+
+QUESTION NO: 262
+Which of the following items are included in the results returned when the face search service
+is successfully called?
+A. Searched face similarity
+B. Searched faces id
+C. Searched face position
+D. Searched face number
+Answer: A,B,C
+
+QUESTION NO: 263
+Which of the following are AI Application areas?
+A. Wisdom education
+B. Smart City
+C. Smart home
+D. Smart medical
+Answer: A,B,C,D
+
+QUESTION NO: 264
+Ce11 Provides basic modules for defining and performing calculations, Ce11 The object can
+be executed directly, the following statement is wrong?
+A. __init__,Initialization parameters(Parameter), Submodule(Ce11),operator(Primitive)Equal
+group Software for initial verification
+B. Construct, Define the execution process. In graph mode, it will be compiled into graphs for
+execution, and there is no syntax restriction
+C. There's some left optim Commonly used optimizers,wrap Pre-defined commonly used
+network packaging functions Ce11
+D. bprop (Optional), The reverse of the custom module
+Answer: A,C,D
+
+QUESTION NO: 265
+Tensorflow supports multi-TPU cluster computing
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 266
+With Atlas300 (3000)Install the accelerator card in the server DDK (Device Development Kit)
+Only need to install when dependent on the environment Python3.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 267
+What are the characteristics of Python code? (Multiple Choice)
+A. leg1bil1ty
+B. Simpl1c1ty
+C. Rapidity
+D. Scalab1hty
+Answer: A,B,D
+
+QUESTION NO: 268
+Which description is wrong about the hyperparameter?
+A. 1-typerparameters are parameters that set values before the algorithm begins learning.
+B. Most machine learning algorithms have hyperparameters.
+C. Hyperparameters cannot be modified
+D. The value of the hyperparameter is not learned by the algorithm itself.
+Answer: C
+
+QUESTION NO: 269
+According to Huawei Cloud EI Intelligent platform, which of the following solutions can be
+provided?
+A. Crowd statistics program
+B. Policy query scheme based on knowledge graph
+C. Vehicle identification scheme
+D. Intrusion recognition scheme
+Answer: A,B,C,D
+
+QUESTION NO: 270
+Which of the following is not an artificial intelligence school?
+A. Symbolism
+B. StatJst1caltsm
+C. Behaviorism
+D. Connectionism
+Answer: B
+
+QUESTION NO: 271
+TensorFlow2.0 middle Keras The three main advantages of the interface are user-friendly,
+modular and Combination, easy to expand.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 272
+Which of the following options is not a tensor attribute?
+A. name (Logo)
+B. shape (Dimensionality)
+C. type (Type)
+D. node (Node)
+Answer: D
+
+QUESTION NO: 273
+Regular term can also be added to logistic regression to avoid overfitting.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 274
+All convolution kernels of the same convolution layer in the convolutional neural network are
+weight-sharing.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 275
+The following about the standard RNN Model, the correct statement is?
+A. There is no one-to-one model structure
+B. Do not consider the time direction when backpropagating
+C. There is no many-to-many model structure
+D. There will be a problem of attenuation of long-term transmission and memory information
+Answer: D
+
+QUESTION NO: 276
+HUAWEI HiAI Which module does the face detection in the platform belong to?
+A. HiAI Engine
+B. HiAI Framework
+C. HiAI Foundation
+D. HiAI Service
+Answer: A
+
+QUESTION NO: 277
+Root The user cannot install Atlas300 (3000) Install the accelerator card on the server DDK
+(Device Development Kit), Can only be installed by ordinary users.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 278
+TensorFlow2.0 not support tensor in GPU with CPU Transfer between each other.
+A. TRUE
+B. FALSE
+Answer: B
+
+QUESTION NO: 279
+When training the network of God, we often encounter many problems. For the problem of
+vanishing gradient, we can choose to make. Which of the following functions to alleviate the
+problem?
+A. Relu function
+B. Sigmoid function
+C. tanh function
+D. Softsign function
+Answer: A
+
+QUESTION NO: 280
+Which of the following statements about passport recognition services are correct?
+A. country_code Country code representing the country where the passport was issued
+B. nationality Nationality of representative holder
+C. passport_number Representative passport number
+D. confidence Confidence information of related fields. The greater the confidence, the higher
+the reliability of the corresponding field identified this time. In a statistical sense, the greater
+the confidence, the higher the accuracy
+Answer: A,B,C,D
+
+QUESTION NO: 281
+The determinant of square matrix A is a scalar.
+A. True
+B. False
+Answer: A
+
+QUESTION NO: 282
+When using TensorFlow2. 0 of keras When building a neural network with an interface, the
+network needs to be compiled. Which of the following methods should be used to work?
+A. compile
+B. write
+C. join
+D. fit
+Answer: A
+
+QUESTION NO: 283
+X, Y are random variables, C is a constant, the nature of the difference in the following
+options which is wrong? (Multiple choice)
+A. D(C)=O
+B. D(X+ Y)=D(X)+D(Y)
+C. D(CX)=C'C'D()()
+D. D(XY)=D(X)D{Y)
+Answer: B,D
+
+QUESTION NO: 284
+Which of the following about the description of expectations and variances is incorrect?
+A. Expectation reflects the average level of random variable values
+B. The variance reflects the degree of deviation between the random variable and its
+mathematical expectation
+C. Expectation and variance are both numerical characteristics of random variables
+D. The greater the expectation the smaller the variance
+Answer: D
+
+QUESTION NO: 285
+In the deep learning neural network, the perceptron is the simplest neural network. The
+correct statement about its structure is:
+A. There are only two hidden layers
+B. Only one hidden layer
+C. Its network uses Sigmoid Activation function
+D. Its network uses Relu Activation function
+Answer: B
+
+QUESTION NO: 286
+What is the most important difference between batch gradient descent, mini-batch gradient
+descent, and stochastic gradient descent?
+A. Gradient size
+B. Gradient direction
+C. Learning rate
+D. Number of samples used
+Answer: D
+
+QUESTION NO: 287
+According to the definition of information entropy what is the bit entropy of throwing a uniform
+coin?
+A. 0
+B. 0.5
+C. 1
+D. -1
+Answer: C
+
+QUESTION NO: 288
+Which of the following is not MindSpore Features of the core architecture?
+A. Automatic differentiation
+B. Automatic tuning
+C. Automatic coding
+D. Automatic parallel
+Answer: C
+
+QUESTION NO: 289
+Corvolutional neural networks are more suitable for dealing with speech recognition problems
+A. True
+B. False
+Answer: B
+
+QUESTION NO: 290
+In order for a machine to be intelligent, it must be knowledgeable. Therefore, there is a
+research field in artificial intelligence. which mainly studies how computers automatically
+acquire knowledge and skills to achieve self-impr011emenL What is the branch of this
+research called?
+A. Expert system
+B. Machine learning
+C. Neural Network
+D. Natural language processing
+Answer: B
+
+QUESTION NO: 291
+Ascend among the following options 310 And Shengteng 910 The attributes are the same?
+A. Maximum power
+B. Architecture
+C. Integer precision
+D. 7nm Process
+Answer: B
+
+QUESTION NO: 292
+What are the algorithms supported by Tensorflow? (Multiple Choice}
+A. GNN
+B. ZNN
+C. RNN (Rig ht Answers)
+D. HUT
+Answer: A,C
+
+QUESTION NO: 293
+Where should the labeled data be placed in the confrontation generation network?
+A. As the output value of the generated model
+B. As the input value of the discriminant model
+C. As the output value of the discriminant model
+D. As input value for generative model
+Answer: B
+
+QUESTION NO: 294
+Which of the following description 1s wrong about the image recognition cloud service?
+A. The service identifies specific objects such as skyscrapers, buildings, and ships.
+B. The service can also identify the sea, city, port and other scenes.
+C. The service can perform semantic analysis on the content in the image to extract labels
+with specific abstract meanings
+D. The service can provide object and scene labels and can also provide more conceptual
+labels.
+Answer: D
+
+QUESTION NO: 295
+Which of the following is not a specific technology of artificial intelligence?
+A. Knowledge map
+B. Machine translation
+C. Riemann geometry
+D. Semantic understanding
+Answer: C
+
+QUESTION NO: 296
+HiAI Mobile computing platform provides rich upper-level functional services API, Can run
+efficiently on mobile devices.
+A. TRUE
+B. FALSE
+Answer: A
+
+QUESTION NO: 297
+In the deep learning network, the backpropagation algorithm is used to find the optimal
+parameters. What rules are used in the backpropagation algorithm to obtain the derivation
+layer by layer?
+A. Chain rule
+B. Cumulative rule
+C. Law of reciprocity
+D. Rule of Normalization
+Answer: A
+
+QUESTION NO: 298
+Which of the following descriptions about the Recurrent Neural Network (RNN) is correct?
+A. Can be used to process sequence data.
+B. Cannot process variable length sequence data.
+C. Unlike convolutional neural networks. parameters of RNN cannot be shared
+D. The units above the hidden layer are not associated With each other.
+Answer: A
+
+QUESTION NO: 299
+Which of the following capabilities does the genetic knowledge map have?
+A. Auxiliary case diagnosis
+B. Disease prediction and diagnosis
+C. Gene test report generation
+D. Entity query
+Answer: A,C,D
+
+QUESTION NO: 300
+What research areas does artificial intelligence have? (Multiple choice)
+A. Natural language processing
+B. Computer Vision
+C. Machine learning
+D. Speech recognition
+Answer: A,B,C,D
